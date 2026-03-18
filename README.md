@@ -27,5 +27,6 @@ Projede katılımcılar soruları cevaplayarak yarışır ve sunucu/istemci mima
 
 - `resimler/seyirci.png`  
 - `resimler/milyoner_background.jpg`  
-
+- 'resimler/yariyariya.png'
+- 'resimler/seyirci.png'
 Bu görseller oyun sırasında arayüzde kullanılır.
